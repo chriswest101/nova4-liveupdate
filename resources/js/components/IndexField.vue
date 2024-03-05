@@ -3,8 +3,7 @@
         <input
             :id="field.name + field.id"
             type="text"
-            class="w-full
-            border-transparent
+            class="border-transparent
             hover:border-primary-500  dark:hover:border-gray-400
 
             focus:border-gray-900     dark:focus:border-gray-300
